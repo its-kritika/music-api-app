@@ -2,9 +2,9 @@
 Welcome to the Music API! You can access any song and listen to it. Below are some useful links and information.
 
 ## Features
-- Search for song to listen.
+- Search for a song to listen.
 - Displays detailed information about the song.
-- Click `play icon` to listen to the song.
+- Click ▶ to listen to the song.
 
 ## Technologies Used
 - Node JS
@@ -35,10 +35,10 @@ This web application uses Spotify API to fetch the song data.
 Set up your developer account to get access to `CLIENT_ID` and `CLIENT_SECRET` required to use Spotify API
 1. Visit the site: [Spotify for Developers](https://developer.spotify.com/).
 2. Log into the [Dashboard](https://developer.spotify.com/dashboard) using your Spotify account.
-3. [Create an app](https://developer.spotify.com/documentation/web-api/concepts/apps)
-  - Add `http://localhost:3000/callback` to "Redirect URIs".
-  - Select `Web API` for the question asking which APIs are you planning to use. 
-  - Similarly add other details
+3. Click [Create app](https://developer.spotify.com/documentation/web-api/concepts/apps)
+    - Add `http://localhost:3000/callback` to "Redirect URIs".
+    - Select `Web API` for the question asking which APIs are you planning to use.
+    - Similarly add other details.
 4. Once you have created your app, you will have access to the app credentials. These will be required for API authorization to obtain an access token.
 5. Use the access token in your API requests. 
 
