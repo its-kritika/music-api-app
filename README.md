@@ -49,10 +49,26 @@ Set up your developer account to get access to `CLIENT_ID` and `CLIENT_SECRET` r
 
 > **Note:** Open your [Spotify on Web](https://open.spotify.com/) side by side with the app to listen to the song. If you still encounter `NO_ACTIVE_DEVICE` error, switch to spotify tab and simply click play and then pause ( to any song that had been played previously), this will ensure that Spotify is running correctly in background and then switch back to the Music API and refresh the webpage.
 
+## Demo 
+
+**Login Page**
+![Screenshot (383)](https://github.com/user-attachments/assets/09ba3932-c45f-406a-8d7b-90a9272b1323)
+
+**Spotify Login Page**
+![Screenshot (382)](https://github.com/user-attachments/assets/8861ac96-3805-4117-a3fe-ba63064eb7f8)
+
+**Search Page**
+![Screenshot (384)](https://github.com/user-attachments/assets/49c75839-1abf-4602-8329-f0d36caff9a4)
+
+**Playback Started**
+![Screenshot (385)](https://github.com/user-attachments/assets/e2561f70-6982-47fd-bda0-ad2392504fa1)
+
+
 ## ENJOY!!😃
 
 ## Legal
 By using Spotify Web API, you accept the [Spotify Developer Terms of Service](https://developer.spotify.com/terms).
+
 
 
 
